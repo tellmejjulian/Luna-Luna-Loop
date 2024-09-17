@@ -4,7 +4,9 @@
 
 ## 📖 Descripción
 
-Luna Luna Loop es una aventura interactiva creada con Twine. Sumérgete en un mundo donde tus decisiones dan forma a la historia. [Añade una breve descripción atractiva de la trama o el concepto principal del juego].
+Luna Luna Loop es una aventura interactiva creada con Twine. Sumérgete en un mundo donde tus decisiones dan forma a la historia. 
+En una galaxia lejana, una gatita astronauta llamada Luna se encuentra explorando el vasto universo en su nave espacial para su nuevo trabajo en la “Estrella Azul”. 
+Mientras atravesaba una nebulosa misteriosa, su nave fue atrapada en un bucle del tiempo. Su nave ha sufrido demasiado daño y explota al no ser reparada de manera correcta, permitíendole ver una luz blanca que la lleva de regreso al inicio. Determinada a escapar del bucle, Luna necesita reparar su nave, pero cada decisión que toma puede llevarla a un destino diferente.
 
 ## 🌟 Características
 
@@ -36,10 +38,10 @@ Luna Luna Loop es una aventura interactiva creada con Twine. Sumérgete en un mu
 
 Creado con ❤️ por:
 
-María B. Domínguez (mary_ amb) - Project Manager & Writing
-Dulce Guitrón (dulguib) - 2D Animation & Background Design
-Nicolle Egan Wyer (cheriefleur) - Character Design & 2D Animation
-Nikolasrivero27 - Game Music & SFX / Assist Writing
-JJulian Rodríguez (jjulianrodriguez) - Programming
+- María B. Domínguez (mary_ amb) - Project Manager & Writing
+- Dulce Guitrón (dulguib) - 2D Animation & Background Design
+- Nicolle Egan Wyer (cheriefleur) - Character Design & 2D Animation
+- Nikolasrivero27 - Game Music & SFX / Assist Writing
+- JJulian Rodríguez (jjulianrodriguez) - Programming
 
 *(user of Discord)
